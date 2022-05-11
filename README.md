@@ -1,1 +1,1 @@
-# zanahoria-feliz
+`Parcial 2: Programación`
