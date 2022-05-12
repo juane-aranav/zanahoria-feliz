@@ -15,8 +15,8 @@ El programa *main.py* funciona de la siguiente manera:
 
         -En un ciclo para *i* en la lista de textos invertidos horizontalmente, evalúa si en el ciclo actual el caracter
          pertenece a un diccionario con números romanos expresados como strings. De pertenecer, evalúa si el valor 
-         numérico de la posición anterior es mayor que el de la actual y asigna (con signo negativo) en una variable *arabn*
-         el valor numérico del caracter en el diccionario. Caso contrario para los pertenecientes, se asigna (con
+         numérico de la posición anterior es mayor que el de la actual y asigna (con signo negativo) en una variable
+         *arabn* el valor numérico del caracter en el diccionario. Caso contrario para los pertenecientes, se asigna (con
          signo positivo) en *arabn* el valor numérico del caracter en el diccionario. En el mismo ciclo, se evalúa si el 
          caracter actual corresponde a uno de los valores específicos de *signos* y de ser así, añade el caracter
          correspondiente en *arabn* expresado como string. De no corresponder, se arroja el string de *arab*.
